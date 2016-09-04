@@ -1,0 +1,11 @@
+{
+  "name": "request_hpms",
+  "version": "1.0.0",
+  "description": "This is the second of five backend api challenges from [Freecodecamp](https://www.freecodecamp.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azurite",
+  "license": "MIT"
+}
